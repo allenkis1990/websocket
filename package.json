@@ -1,0 +1,23 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websocket.js",
+  "scripts": {
+    "dev": "node websocket.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenkis1990/websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allenkis1990/websocket/issues"
+  },
+  "homepage": "https://github.com/allenkis1990/websocket#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
